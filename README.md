@@ -16,6 +16,10 @@
   — <em>Jinpachi Ego</em>
 </p>
 
+<div align="center">
+<img align="center" alt="Coding" width="500" src="https://github.com/achraf-oujjir/achraf-oujjir/blob/main/isagi.gif">
+  </div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
