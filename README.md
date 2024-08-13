@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋🏻,  I'm Achraf OUJJIR</h1>
-<h3 align="center">Cloud Data Engineer at Deloitte 🟢| Builds Data Pipelines for fun 🛠️  | Passionate about Cloud ☁️, Infra 🏗️ and GenAI 🧠 </h3>
+<h3 align="center">Cloud Data Engineer at Deloitte 🟢| Builds Data Pipelines for fun 🛠️  | Passionate about Cloud ☁️, Infrastructure 🏗️ and GenAI 🧠 </h3>
 <br>
 
 - 🔭 I’m currently working on publishing my projects on github 🙃
@@ -44,7 +44,12 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
 </div>
 
 
+<h2 align="left">You can find me in</h2>
 
+<a href="https://www.linkedin.com/in/achraf-oujjir/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/>
+<a href="https://www.kaggle.com/raphash" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaggle-000.svg?logo=kaggle&logoColor=blue&style=for-the-badge"/>
+<a href="https://www.datacamp.com/profile/oujjirachraf" target="_blank"> <img align="center" src="https://img.shields.io/badge/Datacamp-000?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/>
+<a href="https://stackoverflow.com/users/15069650/h-raph?tab=profile" target="_blank"> <img align="center" src="https://img.shields.io/badge/Stack Overflow-000.svg?style=for-the-badge&logo=StackOverflow&logoColor"/></a>
 
 <!--**achraf-oujjir/achraf-oujjir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
