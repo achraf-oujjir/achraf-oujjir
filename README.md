@@ -15,7 +15,6 @@
 ### Whoami 👨‍💻 :
 <p align="center">
   <em>“Data is not just a field. It's a way of life.”</em>
-  — <em> Me :)</em>
 </p>
 <br>
 <div align="center">
