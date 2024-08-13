@@ -6,7 +6,7 @@
 - 🌱 I’m learning **Advanced Cloud Computing** ☁️ and **Data Platforms** 🏗️
 - ⚡ I have a thing for **Hackathons** (Gotta love the adrenaline rush 🔥👨‍💻)
 - 📫 How to reach me: **oujjir.achraf@gmail.com** or
-  <a href="https://www.linkedin.com/in/achraf-oujjir/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/achraf-oujjir/" target="blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 
@@ -15,18 +15,40 @@
 ### Whoami 👨‍💻 :
 <p align="center">
   <em>“Data is not just a field. It's a way of life.”</em>
-  — <em> A Wise Guy :)</em>
+  — <em> Me :)</em>
 </p>
 <br>
 <div align="center">
-<img align="center" alt="Coding" width="500" src="https://github.com/achraf-oujjir/achraf-oujjir/blob/main/isagi-goal.gif">
+<img align="center" alt="isagi-goal" width="400" src="https://github.com/achraf-oujjir/achraf-oujjir/blob/main/isagi-goal.gif">
 </div>
 <br>
 
-I believe Graph Theory, Probabilities and Markov Chains are appliable in our daily life. Right moves lead to desired results and I embody this in my career 💼, studies 🎓 and health 🏋️‍♂️.
+I believe Graph Theory, Probabilities and Markov Chains are appliable in our daily life. Right moves lead to desired results and I try to embody this in my career 💼, studies 🎓 and health 🏋️‍♂️.
 
 As much as I enjoy leveraging data in my personal life, I get the same joy when doing it on a larger scale for a bigger impact with big clients as a **Cloud Data Consultant**. I build and optimize solid data platforms on the Cloud for data solutions and ensure seamless data workflows and integrations. My passion lies in optimizing data processes and enabling insightful analytics that support strategic decision-making and fuel business growth.
 
+### Metadata 🗂️🏷️ :
+🥊 When I'm not exploring new tech, prepping for a cert or tackling leetcode problems, you'll find me boxing. It's a time for me when I let go of the steering wheel and allow my body to take control and move instinctively.
+<br>
+<div align="center">
+<img align="center" alt="ippo-box" width="400" src="https://github.com/achraf-oujjir/achraf-oujjir/blob/main/ippo-box.gif">
+</div>
+<br>
+
+💪🏃‍♂️I also love to run and workout. Moving is a must for me and I don't feel the same if I don't get my blood pumping. I usually get between 3 to 6 workouts and 2-3 hours of jogging. BDNF helps with leetcode 🧩👨‍💻.
+
+<br>
+<div align="center">
+<img align="center" alt="izuku-run" width="400" src="https://github.com/achraf-oujjir/achraf-oujjir/blob/main/izuku-run.gif">
+</div>
+<br>
+
+Whenever I can, I team up with friends to take on hackathons. There's something amazing about collaborating with like-minded people, each bringing their own unique skills to create a well-rounded team. The thrill of quickly developing a prototype together is unmatched. If I had to use a football analogy, it's like making a blind pass, knowing your teammate will be exactly where they need to be—and they are! Having reliable people to work with is a true blessing, and the excitement of winning together makes it all the more rewarding!
+
+<br>
+<div align="center">
+<img align="center" alt="isagi-dap" width="400" src="https://github.com/achraf-oujjir/achraf-oujjir/blob/main/isagi-dap.gif">
+</div>
 
 ### Languages and Tools 🛠️ :
 
