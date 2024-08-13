@@ -79,7 +79,6 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt="dotnet" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
@@ -94,7 +93,18 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </div>
 
-### Operating Systems 🖥️:
+#### Scripting & Automation ⚙️📜:
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="40" alt="selenium" />
+
+
+  
+</div>
+
+
+#### Operating Systems 🖥️:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian" />
