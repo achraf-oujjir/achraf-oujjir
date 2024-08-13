@@ -63,7 +63,7 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" alt="sqlite" />
 </div>
 
-### Data Science and Machine Learning 🤖🧠
+#### Data Science and Machine Learning 🤖🧠
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
@@ -73,7 +73,7 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="pytorch" />
 </div>
 
-### Web Dev & APIs 🌐:
+#### Development 🌐:
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c" />
@@ -82,6 +82,8 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt="dotnet" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="40" alt="nginx" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" alt="spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit" />
@@ -89,6 +91,7 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" alt="flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" />
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </div>
 
 ### Operating Systems 🖥️:
