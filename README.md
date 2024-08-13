@@ -43,7 +43,7 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
 </div>
 <br>
 
-Whenever I can, I team up with friends to take on hackathons. There's something amazing about collaborating with like-minded people, each bringing their own unique skills to create a well-rounded team. The thrill of quickly developing a prototype together is unmatched. If I had to use a football analogy, it's like making a blind pass, knowing your teammate will be exactly where they need to be—and they are! Having reliable people to work with is a true blessing, and the excitement of winning together makes it all the more rewarding!
+🚀🏆 Whenever I can, I team up with friends to take on hackathons. There's something amazing about collaborating with like-minded people, each bringing their own unique skills to create a well-rounded team 👥. The thrill of quickly developing a prototype together is unmatched. If I had to use a football analogy ⚽, it's like making a blind pass, knowing your teammate will be exactly where they need to be—and they are! Having reliable people to work with is a true blessing 🙌, and the excitement of winning together makes it all the more rewarding 🥇!
 
 <br>
 <div align="center">
