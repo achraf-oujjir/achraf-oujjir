@@ -24,7 +24,7 @@
 
 I believe Graph Theory, Probabilities and Markov Chains are appliable in our daily life. Right moves lead to desired results and I try to embody this in my career 💼, studies 🎓 and health 🏋️‍♂️.
 
-As much as I enjoy leveraging data in my personal life, I get the same joy when doing it on a larger scale for a bigger impact with big clients as a **Cloud Data Consultant**. I build and optimize solid data platforms on the Cloud for data solutions and ensure seamless data workflows and integrations. My passion lies in optimizing data processes and enabling insightful analytics that support strategic decision-making and fuel business growth.
+As much as I enjoy leveraging data in my personal life, I get the same joy when doing it on a larger scale with big clients as a **Cloud Data Consultant**. I build and optimize solid data platforms in the cloud for data solutions to ensure seamless data workflows and integrations. My passion lies in optimizing data processes and enabling insightful analytics that support strategic decision-making and fuel business growth.
 
 ### Metadata 🗂️🏷️ :
 🥊 When I'm not exploring new tech, prepping for a cert or tackling leetcode problems, you'll find me boxing. It's a time for me when I let go of the steering wheel and allow my body to take control and move instinctively.
