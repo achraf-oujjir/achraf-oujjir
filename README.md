@@ -120,9 +120,6 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="40" alt="selenium" />
-
-
-  
 </div>
 
 
@@ -147,12 +144,14 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
 </div>
 
 
-<h2 align="left">You can find me in</h2>
+<h2 align="left">You can find me on</h2>
 
-<a href="https://www.linkedin.com/in/achraf-oujjir/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/>
-<a href="https://www.kaggle.com/raphash" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaggle-000.svg?logo=kaggle&logoColor=blue&style=for-the-badge"/>
-<a href="https://www.datacamp.com/profile/oujjirachraf" target="_blank"> <img align="center" src="https://img.shields.io/badge/Datacamp-000?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/>
+<div align="center">
+<a href="https://www.linkedin.com/in/achraf-oujjir/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
+<a href="https://www.kaggle.com/raphash" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaggle-000.svg?logo=kaggle&logoColor=blue&style=for-the-badge"/></a>
+<a href="https://www.datacamp.com/profile/oujjirachraf" target="_blank"> <img align="center" src="https://img.shields.io/badge/Datacamp-000?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/></a>
 <a href="https://stackoverflow.com/users/15069650/h-raph?tab=profile" target="_blank"> <img align="center" src="https://img.shields.io/badge/Stack Overflow-000.svg?style=for-the-badge&logo=StackOverflow&logoColor"/></a>
+</div>
 
 <!--**achraf-oujjir/achraf-oujjir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
