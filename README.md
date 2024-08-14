@@ -34,7 +34,7 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
 </div>
 <br>
 
-💪🏃‍♂️I also love to run and workout. Moving is a must for me and I don't feel the same if I don't get my blood pumping. I usually get between 3 to 6 workouts and 2-3 hours of jogging. BDNF helps with leetcode 🧩👨‍💻.
+💪🏃‍♂️I also love to run and workout. Moving is a must for me. I usually get between 3 to 6 workouts and 2-3 hours of jogging per week. BDNF helps with leetcode 🧩👨‍💻.
 
 <br>
 <div align="center">
