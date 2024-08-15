@@ -132,6 +132,10 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu" />
 </div>
 
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=achraf-oujjir&repo=Twitter-Hive-DataWarehouse&theme=github_dark&hide_border=true)](https://github.com/achraf-oujjir/Twitter-Hive-DataWarehouse)
+
 
 <br>
 <h2 align="left">Github Stats</h2>
