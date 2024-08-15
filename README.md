@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋🏻,  I'm Achraf OUJJIR</h1>
-<h3 align="center">Cloud Data Engineer at Deloitte 🟢| Builds Data Pipelines for fun 🛠️  | Passionate about Cloud ☁️, Infrastructure 🏗️ and GenAI 🧠 </h3>
+<h3 align="center">Cloud Data Engineer at Deloitte 🟢| Builds Data Pipes for fun 🛠️  | Passionate about Cloud ☁️, Infrastructure 🏗️ and GenAI 🧠 </h3>
 <br>
 
 - 🔭 I’m currently working on publishing my projects on github 🙃
