@@ -22,7 +22,7 @@
 </div>
 <br>
 
-I believe Graph Theory, Probabilities and Markov Chains are appliable in our daily life. We can't make the right decisions without the right data, and this is why it is important. This is the approach I try to embody in my career 💼, studies 🎓 and health 🏋️‍♂️.
+I believe Graph Theory, Probabilities and Markov Chains are appliable in our daily life. We can't make the right decisions without the right data, and this is why it is important to have a data-centered thinking. This is the approach I try to embody in my career 💼, studies 🎓 and health 🏋️‍♂️.
 
 As much as I enjoy leveraging data in my personal life, I get the same joy when doing it on a larger scale with big clients as a **Cloud Data Consultant**. I build and optimize solid data platforms in the cloud for data solutions to ensure seamless data workflows and integrations. My passion lies in optimizing data processes and enabling insightful analytics that support strategic decision-making and fuel business growth.
 
