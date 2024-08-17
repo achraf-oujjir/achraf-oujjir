@@ -156,8 +156,9 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
 
 <div align="center">
 <a href="https://www.linkedin.com/in/achraf-oujjir/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
-<a href="https://www.kaggle.com/raphash" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaggle-000.svg?logo=kaggle&logoColor=blue&style=for-the-badge"/></a>
 <a href="https://www.datacamp.com/profile/oujjirachraf" target="_blank"> <img align="center" src="https://img.shields.io/badge/Datacamp-000?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/></a>
+<a href="https://www.hackerrank.com/profile/oujjir_achraf" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Hackerrank-000.svg?style=for-the-badge&logo=HackerRank&logoColor=2EC866"/></a>
+<a href="https://www.kaggle.com/raphash" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaggle-000.svg?logo=kaggle&logoColor=blue&style=for-the-badge"/></a>
 <a href="https://stackoverflow.com/users/15069650/h-raph?tab=profile" target="_blank"> <img align="center" src="https://img.shields.io/badge/Stack Overflow-000.svg?style=for-the-badge&logo=StackOverflow&logoColor"/></a>
 </div>
 
