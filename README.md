@@ -164,6 +164,9 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
 
 <!--**achraf-oujjir/achraf-oujjir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Shield badges:
+https://github.com/Ileriayo/markdown-badges
+
 terraform, argocd, kafka, airflow, nifi, mage, talend, ssis, excel, powerbi, tableau, hbase terraform, argocd, kafka, airflow, nifi, mage, talend, ssis, excel, powerbi, tableau, hbase
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
