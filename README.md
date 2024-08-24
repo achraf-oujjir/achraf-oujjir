@@ -135,7 +135,7 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=achraf-oujjir&repo=ChatGPT-Users-Tweets-Pipeline&theme=github_dark&hide_border=true)](https://github.com/achraf-oujjir/ChatGPT-Users-Tweets-Pipeline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=achraf-oujjir&repo=TermGPT&theme=github_dark&hide_border=true)](https://github.com/achraf-oujjir/TermGPT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=achraf-oujjir&repo=ProfGPT-Smart-VR-Professor&theme=github_dark&hide_border=true)](https://github.com/achraf-oujjir/ProfGPT-Smart-VR-Professor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=achraf-oujjir&repo=xception-on-ham10k&theme=github_dark&hide_border=true)](https://github.com/achraf-oujjir/xception-on-ham10k)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=achraf-oujjir&repo=KhaimaAI&theme=github_dark&hide_border=true)](https://github.com/achraf-oujjir/KhaimaAI)
 
