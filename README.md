@@ -147,7 +147,7 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=achraf-oujjir&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505" alt="Achraf's GitHub stats">
   <a href="https://github.com/achraf-oujjir/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=achraf-oujjir&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505" alt="Top Langs">
+    <img src="" alt="Top Langs">
   </a>
 </div>
 
