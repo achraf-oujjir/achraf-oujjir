@@ -147,7 +147,8 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=achraf-oujjir&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505" alt="Achraf's GitHub stats">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=achraf-oujjir&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505" alt="Top Langs">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achraf-oujjir" alt="Achraf's Github Streak">
+  <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=achraf-oujjir" alt="Achraf's Github Streak"-->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=achraf-oujjir&hide_border=true&background=111111&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=FFFFFF&stroke=FFFFFFFF(https://git.io/streak-stats)" />
 </div>
 
 
