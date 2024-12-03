@@ -22,9 +22,9 @@
 </div>
 <br>
 
-I believe Graph Theory, Probabilities and Markov Chains are appliable in our daily life. We can't make the right decisions without the right data, and this is why it is important to have a data-centered thinking. This is the approach I try to embody in my career 💼, studies 🎓 and health 🏋️‍♂️.
+I believe Graph Theory, Probabilities and Markov Chains are appliable in our daily life. We can't make the right decisions without the right data, and this is why it is important to have data-oriented thinking. This is the approach I try to embody in my career 💼, studies 🎓 and health 🏋️‍♂️.
 
-As much as I enjoy leveraging data in my personal life, I get the same joy when doing it on a larger scale with big clients as a **Cloud Data Consultant**. I build and optimize solid data platforms in the cloud for data solutions to ensure seamless data workflows and integrations. My passion lies in optimizing data processes and enabling insightful analytics that support strategic decision-making and fuel business growth.
+As much as I enjoy leveraging data in my personal life, I get the same joy when doing it on a larger scale with big clients as a **Cloud Data Consultant**. I build and optimize solid data platforms to ensure seamless workflows and integrations. My passion lies in optimizing data processes and enabling insightful analytics that support strategic decision-making and fuel business growth.
 
 ### Metadata 🗂️🏷️ :
 🥊 When I'm not exploring new tech, prepping for a cert or tackling leetcode problems, you'll find me boxing. It's a time for me when I let go of the steering wheel and allow my body to take control and move instinctively.
@@ -42,7 +42,7 @@ As much as I enjoy leveraging data in my personal life, I get the same joy when 
 </div>
 <br>
 
-🚀🏆 I often team up with friends to take on hackathons. There's something amazing about collaborating with like-minded people, each bringing their own unique skills to create a well-rounded team 👥. The thrill of quickly developing a prototype together is unmatched. Having reliable people to work with is a true blessing 🙌, and the excitement of winning together makes it all the more rewarding 🥇!
+🚀🏆 I often team up with friends to take on hackathons. There's something amazing about collaborating with like-minded people, each bringing their own unique skills to create a well-rounded team 👥. The thrill of quickly developing a prototype together is unmatched and the excitement of winning together makes it all the more rewarding 🥇!
 
 <br>
 <div align="center">
